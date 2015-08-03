@@ -1,0 +1,11 @@
+name: TribeSigns
+version: 1.0
+author: V3lop5
+main: de.tribemc.signs.main.Main
+commands:
+  tribesigns:
+  tribesign:
+  sign:
+  freesign:
+  fs:
+  

@@ -1,0 +1,23 @@
+# Delay bis zum nächsten Use
+Delay: 5
+# Allgemein
+Enabled: true
+# In welcher Form soll der Revard ausgegeben werden?
+Revard:
+  Instant: true
+  Random: false
+  InventorySize: 9
+# Benachrichtigungen
+Notify:
+  Recive: true
+  Delay: true
+# SignVariablen:
+# %0 - WeltName
+# %1 - BlockX
+# %2 - BlockY
+# %3 - BlockZ
+# %4 - Delay
+# %5 - TypeName
+# %6 - Amount
+# %7 - DataByte
+# %8 - TypeID
